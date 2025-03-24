@@ -53,12 +53,19 @@ ________________________________________________________________________________
 ## (4/10) DWH Dimensional Modeling:
 
 **Fact_OrderLifeCycle:** Stores transaction details, including order revenue, and delivery status.
+
 **Fact_OrderPayments:** Stores order payment details.
+
 **Dim_Customers:** Contains customer details, demographics and location details.
+
 **Dim_Products:** Stores product categories, names, and seller details.
+
 **Dim_Sellers:** Includes seller information and performance metrics.
+
 **Dim_Date:** Provides a time hierarchy for trend analysis.
+
 **Dim_Reviews:** Stores customer feedback and sentiment analysis.
+
 
 _____________________________________________________________________________________
 ## (5/10) ETL process using SSIS:
