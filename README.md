@@ -221,13 +221,13 @@ ________________________________________________________________________________
 ## (9/10) Tableau Dashboards:
 
  - Links of Interactive Dashboards @ Tableau Public:
-    - <a href="https://public.tableau.com/app/profile/abdelrhman.samir1401/viz/Olist_Graduation/SalesPerformance">**Sales & Orders Dashboards**</a>
+    - <a href="https://public.tableau.com/app/profile/abdelrhman.samir1401/viz/Olist_Graduation/SalesPerformance">**Sales & Orders Dashboard**</a>
     
-    - <a href="">**Products Dashboards**</a>
+    - <a href="">**Products Dashboard**</a>
     
-    - <a href="">**Customers Dashboards**</a>
+    - <a href="">**Customers Dashboard**</a>
     
-    - <a href="https://public.tableau.com/app/profile/nafisa.elkady/viz/Tableau_17428481004510/SellerAnalysis">**Sellers Dashboards**</a>
+    - <a href="https://public.tableau.com/app/profile/nafisa.elkady/viz/Tableau_17428481004510/SellerAnalysis">**Sellers Dashboard**</a>
     
 
 
