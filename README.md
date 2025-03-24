@@ -189,6 +189,9 @@ In the Olist E-Commerce Analysis project, the SSRS (SQL Server Reporting Service
 _____________________________________________________________________________________
 ## (8/10) PowerBI Dashboards:
 
+  - <a href="https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTFkNzQtYWY0OS00NTBiLThiODgtZWZkMjRiY2RkMDg4IiwidCI6ImFiZmYzMTIyLTQ0NWMtNDFjMy04NmNiLTZiZWQxOTI0YzEyZCJ9">**Link of Interactive Power BI Dashboards**</a>
+
+
 #### 8.1. Sales & Orders Reports:
 
 
@@ -216,6 +219,17 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 ## (9/10) Tableau Dashboards:
+
+ - Links of Interactive Dashboards @ Tableau Public:
+    - <a href="https://public.tableau.com/app/profile/abdelrhman.samir1401/viz/Olist_Graduation/SalesPerformance">**Sales & Orders Dashboards**</a>
+    
+    - <a href="">**Products Dashboards**</a>
+    
+    - <a href="">**Customers Dashboards**</a>
+    
+    - <a href="https://public.tableau.com/app/profile/nafisa.elkady/viz/Tableau_17428481004510/SellerAnalysis">**Sellers Dashboards**</a>
+    
+
 
 #### 9.1. Sales & Orders Reports:
 
