@@ -22,7 +22,7 @@ _____________________________________________________________________
 
 <a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#910-tableau-dashboards">**9) Tableau Dashboards.**</a>
 
-<a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#1010-data-source--project-files">**10) Data Source & Project Files.**</a>
+<a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#1010-data-source--project-files">**10) Data Source.**</a>
 
 _____________________________________________________________________________________
 <a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#work-environment--contributors">**Work Environment & Contributors**</a>
@@ -114,6 +114,19 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 ## (5/10) ETL process using SSIS:
 
+In the Olist E-Commerce Analysis project, the SSIS (SQL Server Integration Services) ETL process is responsible for efficiently loading the Data Warehouse. The process includes:
+
+ - **Extract:** Pulling raw data from the Olist transactional database.
+
+ - **Transform:** Cleaning, standardizing, and applying business rules (e.g., handling null values, converting data types, and creating surrogate keys).
+
+ - **Load:** Populating the OLAP Data Warehouse, structuring fact and dimension tables for optimized analysis.
+
+ - **Automation:** Implementing incremental data loads and scheduling ETL jobs for ongoing updates.
+
+This step ensures data consistency, integrity, and readiness for advanced analytics in SSAS, SSRS, and Power BI.
+
+
 **5.1. DIM_Sellers**
 
 ![01_DIM_Sellers](https://github.com/user-attachments/assets/b125c561-add2-46af-a9aa-59ac5d77c04f)
@@ -176,31 +189,72 @@ In the Olist E-Commerce Analysis project, the SSRS (SQL Server Reporting Service
 _____________________________________________________________________________________
 ## (8/10) PowerBI Dashboards:
 
+#### 8.1. Sales & Orders Reports:
+
+
+
+#### 8.2. Products Reports:
+
+
+
+#### 8.3. Customers Reports:
+
+
+
+#### 8.4. Payment Methods Reports:
+
+
+
+#### 8.5. Sellers Reports:
+
+
+
+#### 8.6. Reviews Reports:
+
+
+
+
 _____________________________________________________________________________________
 ## (9/10) Tableau Dashboards:
+
+#### 9.1. Sales & Orders Reports:
+
 ![Sales Performance (1)](https://github.com/user-attachments/assets/cfe84165-ada3-458a-869e-5980dbe4fd2c)
 
 ![Sales Geographics](https://github.com/user-attachments/assets/5cda3f03-46f3-4ac1-b9a0-14ddda6f2fad)
+
+#### 9.2. Products Reports:
+
+![Products Performance](https://github.com/user-attachments/assets/865f4670-bca7-4e8a-9606-8a89d3f93835)
+
+#### 9.3. Customers Reports:
+
 ![Customer DemoGraphics](https://github.com/user-attachments/assets/51625205-c401-4909-bddf-6f904614ca67)
+
 ![Customer Transaction](https://github.com/user-attachments/assets/99821b6f-683b-4413-8cd4-d291928adba5)
 
+#### 9.4. Sellers Reports:
 
 ![Seller Analysis](https://github.com/user-attachments/assets/7cc46d1f-ee55-4cd3-97d7-006e0c143b23)
 
 _____________________________________________________________________________________
-## (10/10) Data Source & Project Files:
+## (10/10) Data Source:
 
+<a href="https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv">**Link of Data Source at Kaggle**</a>
 _____________________________________________________________________________________
 
 ## Work Environment & Contributors:
-  - Trello Work Environment:
+  - <a href="https://trello.com/b/8pvc85FO/olist-iti-graduation-project-team05">**Link of Data Source at Kaggle**</a>
+  
+  This project was collaboratively managed using Jira, ensuring efficient task tracking, sprint planning, and progress monitoring. Jira facilitated clear communication and assignment of responsibilities among the team members, allowing seamless coordination and timely completion of deliverables. The development team consisted of:
+
     
   - Contributors:
-    1) Abdelrhman Samir Ebrahim.
-    2) Sarah Fikry Ezzat.
-    3) Abdelrhman Mahmoud Saleh.
-    4) Nafisa Abdelaziz Elkady.
-    5) Usama Maghraby.
+    1) <a href="https://github.com/AbdelrhmanSamir6633">**Abdelrhman Samir Ebrahim.**</a>   "Team Leader"
+    2) <a href="https://github.com/sarahfikry22">**Sarah Fikry Ezzat.**</a>   
+    3) <a href="https://github.com/abdelrahmansaleh22">**Abdelrhman Mahmoud Saleh.**</a> 
+    4) <a href="https://github.com/Nafisa455">**Nafisa Abdelaziz Elkady.**</a> 
+    5) <a href="https://github.com/usamasayed">**Usama Maghraby.**</a> 
 
 
 
