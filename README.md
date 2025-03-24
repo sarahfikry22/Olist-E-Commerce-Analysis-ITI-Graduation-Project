@@ -58,7 +58,7 @@ ________________________________________________________________________________
 
   **9) Tableau** – used for additional dashboard creation and data storytelling, enhancing analytical insights.
 
-  **10) MDX (Multidimensional Expressions) – used for retrieving data from OLAP cubes.
+  **10) MDX (Multidimensional Expressions)** – used for retrieving data from OLAP cubes.
 
   **11) Excel** – Used for additional analysis, quick data exploration, and integrating pivot tables with Power Query for reporting.
 
