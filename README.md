@@ -118,15 +118,15 @@ ________________________________________________________________________________
 
 In the Olist E-Commerce Analysis project, the SSAS (SQL Server Analysis Services) step involves building a Tabular Model to enable advanced analytics and efficient querying. The process includes:
 
-**Connecting to the Data Warehouse:** Importing fact and dimension tables.
+  - **Connecting to the Data Warehouse:** Importing fact and dimension tables.
 
-**Data Modeling:** Defining relationships, hierarchies, and calculated columns.
+  - **Data Modeling:** Defining relationships, hierarchies, and calculated columns.
 
-**Implementing DAX Measures:** Creating KPIs like total sales, average order value, and seller performance.
+  - **Implementing DAX Measures:** Creating KPIs like total sales, average order value, and seller performance.
 
-**Optimization:** Using aggregations, partitions, and indexing for performance improvement.
+  - **Optimization:** Using aggregations, partitions, and indexing for performance improvement.
 
-**Deployment:** Publishing the SSAS model for integration with Power BI and SSRS for reporting.
+  - **Deployment:** Publishing the SSAS model for integration with Power BI and SSRS for reporting.
 
 ![SSAS_Measures](https://github.com/user-attachments/assets/14c7168b-f5ae-4176-ac8f-c70dfcc5f992)
 
