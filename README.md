@@ -10,7 +10,7 @@ _____________________________________________________________________
 
 <a href="">**3) OLTP Database Description.**</a>
 
-<a href="">**4) OLAP Dimensional Modeling. "DWH" **</a>
+<a href="">**4) OLAP Dimensional Modeling "DWH".**</a>
 
 <a href="">**5) ETL process using SSIS.**</a>
 
