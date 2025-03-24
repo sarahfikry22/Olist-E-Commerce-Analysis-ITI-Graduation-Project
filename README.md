@@ -43,7 +43,9 @@ ________________________________________________________________________________
 The Olist E-Commerce Database is designed to support an end-to-end Business Intelligence (BI) solution by transforming raw transactional data into a structured OLAP Data Warehouse. This database enables efficient reporting and analysis of sales performance, customer behavior, seller metrics, and logistics efficiency.
 
 **Source:** OLTP database with normalized transactional data.
+
 **Target:** OLAP Data Warehouse optimized for analytical queries.
+
 **Schema Type:** Galaxy Schema.
 
 _____________________________________________________________________________________
