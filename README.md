@@ -40,6 +40,32 @@ The primary objective of this analysis is to provide data-driven insights to opt
 _____________________________________________________________________________________
 ## (2/10) Tools and Technologies Used:
 
+Tools and Technologies Used
+  **1) MS SQL Server** – used to store and manage the Olist dataset, transforming it from an OLTP to an OLAP Data Warehouse.
+
+  **2) SSMS (SQL Server Management Studio)** – for writing and executing SQL queries, managing the database, and optimizing performance.
+
+  **3) SSIS (SQL Server Integration Services)** – An ETL tool used to extract, transform, and load data from multiple sources into the Data Warehouse.
+
+  **4) SSAS (SQL Server Analysis Services)** – Used to build a Tabular Model, enabling multidimensional analysis with optimized querying and data aggregations.
+
+  **5) SSRS (SQL Server Reporting Services)** – for creating paginated reports, visualizing sales and seller performance, and automating report distribution.
+
+  **6) Power BI** – for developing interactive dashboards to visualize sales, orders, customer reviews, and geographic insights.
+
+  **7) Power Query** – for cleaning, merging, and shaping raw data before analysis.
+
+  **8) DAX (Data Analysis Expressions)** – used for creating calculated columns, measures, and KPIs for deeper analysis.
+
+  **9) Tableau** – used for additional dashboard creation and data storytelling, enhancing analytical insights.
+
+  **10) MDX (Multidimensional Expressions) – used for retrieving data from OLAP cubes.
+
+  **11) Excel** – Used for additional analysis, quick data exploration, and integrating pivot tables with Power Query for reporting.
+
+  **12) Pivot Tables** – for summarizing and analyzing large datasets, supporting dynamic filtering and trend identification.
+
+These tools collectively enable data integration, modeling, analysis, and visualization, supporting comprehensive business intelligence for the Olist E-Commerce Analysis project.
 
 _____________________________________________________________________________________
 ## (3/10) OLTP Database Description:
