@@ -182,6 +182,8 @@ ________________________________________________________________________________
 
 ![Sales Geographics](https://github.com/user-attachments/assets/5cda3f03-46f3-4ac1-b9a0-14ddda6f2fad)
 
+![Seller Analysis](https://github.com/user-attachments/assets/7cc46d1f-ee55-4cd3-97d7-006e0c143b23)
+
 _____________________________________________________________________________________
 ## (10/10) Data Source & Project Files:
 
