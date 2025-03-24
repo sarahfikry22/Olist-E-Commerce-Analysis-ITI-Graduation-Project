@@ -10,7 +10,7 @@ _____________________________________________________________________
 
 <a href="">**3) OLTP Database Description.**</a>
 
-<a href="">**4) OLAP Dimensional Modeling. **"DWH"** **</a>
+<a href="">**4) OLAP Dimensional Modeling. "DWH" **</a>
 
 <a href="">**5) ETL process using SSIS.**</a>
 
@@ -64,7 +64,7 @@ The Olist E-Commerce Database is designed to support an end-to-end Business Inte
 **Schema Type:** Galaxy Schema.
 
 _____________________________________________________________________________________
-## (4/10) DWH Dimensional Modeling:
+## (4/10) OLAP Dimensional Modeling. "DWH":
 
 #### OLAP Model **"DWH"**
 
