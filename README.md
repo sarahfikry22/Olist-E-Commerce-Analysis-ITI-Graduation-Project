@@ -40,7 +40,6 @@ The primary objective of this analysis is to provide data-driven insights to opt
 _____________________________________________________________________________________
 ## (2/10) Tools and Technologies Used:
 
-Tools and Technologies Used
   **1) MS SQL Server** – used to store and manage the Olist dataset, transforming it from an OLTP to an OLAP Data Warehouse.
 
   **2) SSMS (SQL Server Management Studio)** – for writing and executing SQL queries, managing the database, and optimizing performance.
