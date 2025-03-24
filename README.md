@@ -6,11 +6,11 @@ _____________________________________________________________________
 
 <a href="">**1) Business Case.**</a>
 
-<a href="">**2) Database Description.**</a>
+<a href="">**2) Tools and Technologies Used.**</a>
 
-<a href="">**3) Tools and Technologies Used.**</a>
+<a href="">**3) OLTP Database Description.**</a>
 
-<a href="">**4) DWH Dimensional Modeling.**</a>
+<a href="">**4) OLAP Dimensional Modeling. **"DWH"** **</a>
 
 <a href="">**5) ETL process using SSIS.**</a>
 
@@ -38,29 +38,28 @@ ________________________________________________________________________________
 
 The primary objective of this analysis is to provide data-driven insights to optimize Olist’s operations and enhance decision-making. 
 _____________________________________________________________________________________
-## (2/10) Database Description:
+## (2/10) Tools and Technologies Used:
 
-#### 2.1. ERD
+
+_____________________________________________________________________________________
+## (3/10) OLTP Database Description:
+
+#### 3.1. ERD
 ![Olist_ERD](https://github.com/user-attachments/assets/7b352f1b-3e09-4bf5-8520-2a94de39fa88)
 
-#### 2.2. Database Modeling
+#### 3.2. Database Modeling
 ![Mapping drawio](https://github.com/user-attachments/assets/a580435c-9446-4e0c-8107-8c3415699490)
 
 
-#### 2.3. OLTP Database Model
+#### 3.3. OLTP Database Model
 ![OLTP Data Model](https://github.com/user-attachments/assets/b8d48023-8670-4a91-991f-a43d41086295)
 
 
 The Olist E-Commerce Database is designed to support an end-to-end Business Intelligence (BI) solution by transforming raw transactional data into a structured OLAP Data Warehouse. This database enables efficient reporting and analysis of sales performance, customer behavior, seller metrics, and logistics efficiency.
 
 **Source:** OLTP database with normalized transactional data.
-
 **Target:** OLAP Data Warehouse optimized for analytical queries.
-
 **Schema Type:** Galaxy Schema.
-
-_____________________________________________________________________________________
-## (3/10) Tools and Technologies Used:
 
 _____________________________________________________________________________________
 ## (4/10) DWH Dimensional Modeling:
