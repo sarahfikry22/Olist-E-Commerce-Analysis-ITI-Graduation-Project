@@ -40,6 +40,17 @@ The primary objective of this analysis is to provide data-driven insights to opt
 _____________________________________________________________________________________
 ## (2/10) Database Description:
 
+#### 2.1. ERD
+![Olist_ERD](https://github.com/user-attachments/assets/7b352f1b-3e09-4bf5-8520-2a94de39fa88)
+
+#### 2.2. Database Modeling
+![Mapping drawio](https://github.com/user-attachments/assets/a580435c-9446-4e0c-8107-8c3415699490)
+
+
+#### 2.3. OLTP Database Model
+![OLTP Data Model](https://github.com/user-attachments/assets/b8d48023-8670-4a91-991f-a43d41086295)
+
+
 The Olist E-Commerce Database is designed to support an end-to-end Business Intelligence (BI) solution by transforming raw transactional data into a structured OLAP Data Warehouse. This database enables efficient reporting and analysis of sales performance, customer behavior, seller metrics, and logistics efficiency.
 
 **Source:** OLTP database with normalized transactional data.
@@ -53,6 +64,11 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 ## (4/10) DWH Dimensional Modeling:
+
+#### OLAP Model **"DWH"**
+
+![OLAP Data Model](https://github.com/user-attachments/assets/553ced0c-8ac8-4dd7-9b9c-b190ee436a67)
+
 
 **Fact_OrderLifeCycle:** Stores transaction details, including order revenue, and delivery status.
 
