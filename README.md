@@ -244,7 +244,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________
 
 ## Work Environment & Contributors:
-  - <a href="https://trello.com/b/8pvc85FO/olist-iti-graduation-project-team05">**Link of Data Source at Kaggle**</a>
+  - <a href="https://trello.com/b/8pvc85FO/olist-iti-graduation-project-team05">**Link of Trello Work Environment**</a>
   
   This project was collaboratively managed using Jira, ensuring efficient task tracking, sprint planning, and progress monitoring. Jira facilitated clear communication and assignment of responsibilities among the team members, allowing seamless coordination and timely completion of deliverables. The development team consisted of:
 
