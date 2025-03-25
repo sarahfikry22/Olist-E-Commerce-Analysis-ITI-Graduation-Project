@@ -234,7 +234,9 @@ ________________________________________________________________________________
 
 
 #### 8.5. Sellers Reports:
-
+![Olist Dashboards_page-0019](https://github.com/user-attachments/assets/8ad29728-34c5-4ca6-995c-56e76fcf3e01)
+![Olist Dashboards_page-0020](https://github.com/user-attachments/assets/2b901528-6c8a-444e-8252-0183ade66c3d)
+![Uploading Olist Dashboards_page-0021.jpg…]()
 
 
 #### 8.6. Reviews Reports:
