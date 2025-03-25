@@ -223,19 +223,37 @@ ________________________________________________________________________________
 
 #### 8.2. Products Reports:
 
+![Olist Dashboards_page-0010](https://github.com/user-attachments/assets/5f1eb9df-353d-49cc-aceb-2a2e3af172f8)
+
+![Olist Dashboards_page-0011](https://github.com/user-attachments/assets/5557adff-fdfe-44af-bc9a-e508693a7509)
+
+![Olist Dashboards_page-0012](https://github.com/user-attachments/assets/aeb25f6e-2fcd-4d1e-bdd4-738b5ece1af2)
 
 
 #### 8.3. Customers Reports:
 
+![Olist Dashboards_page-0013](https://github.com/user-attachments/assets/2c7b4d6f-a519-4f6e-967a-2c790183179a)
+
+![Olist Dashboards_page-0014](https://github.com/user-attachments/assets/b788fe85-aa8f-4bab-811a-9f7e51795b19)
+
+![Olist Dashboards_page-0015](https://github.com/user-attachments/assets/f50f8d3b-e2a6-441b-b4bc-626513f899b4)
 
 
 #### 8.4. Payment Methods Reports:
 
+![Olist Dashboards_page-0016](https://github.com/user-attachments/assets/7d5c75be-fad7-4986-a8c7-7d8d48314abe)
+
+![Olist Dashboards_page-0017](https://github.com/user-attachments/assets/b6f63726-ede4-4ddf-9f97-fc915efc77d9)
+
+![Olist Dashboards_page-0018](https://github.com/user-attachments/assets/4a01577a-9cb5-4411-ae1d-98a3ea286cb4)
 
 
 #### 8.5. Sellers Reports:
+
 ![Olist Dashboards_page-0019](https://github.com/user-attachments/assets/8ad29728-34c5-4ca6-995c-56e76fcf3e01)
+
 ![Olist Dashboards_page-0020](https://github.com/user-attachments/assets/2b901528-6c8a-444e-8252-0183ade66c3d)
+
 ![Olist Dashboards_page-0021](https://github.com/user-attachments/assets/b546f455-4dc0-4dd0-a3f7-83f8064c8a05)
 
 
@@ -284,7 +302,7 @@ ________________________________________________________________________________
  - Links of Interactive Dashboards @ Tableau Public:
     - <a href="https://public.tableau.com/app/profile/abdelrhman.samir1401/viz/Olist_Graduation/SalesPerformance">**Sales & Orders Dashboard**</a>
     
-    - <a href="">**Products Dashboard**</a>
+    - <a href="https://public.tableau.com/app/profile/abdelrahman.saleh/viz/OlistGraduationTableauuu/Dashboard2">**Products Dashboard**</a>
     
     - <a href="">**Customers Dashboard**</a>
     
