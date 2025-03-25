@@ -203,20 +203,52 @@ ________________________________________________________________________________
 
 ![Olist Dashboards_page-0003](https://github.com/user-attachments/assets/644eb034-38e0-40f6-b3ae-9fd48f7cfd60)
 
+Recommendations:
+  - Identify the causes of declining sales months “September”, Analyze seasonality and adjust promotions 
+  - Consider offering incentives for customers to choose cost-effective shipping options.
+
 ![Olist Dashboards_page-0004](https://github.com/user-attachments/assets/4848c5ea-d9ed-4fd7-b195-07fd41ab06b1)
+
+Recommendations:
+  - Leverage the peak order hour (4:00 PM) by offering time-limited promotions or discounts to further boost sales during this period.
+  - Improve the mobile shopping experience by optimizing the app.
+  - Offer exclusive mobile-only deals to increase mobile order volume.
 
 ![Olist Dashboards_page-0005](https://github.com/user-attachments/assets/6b4571cd-4427-4ab5-8eda-3c7c4f8a7cc0)
 
+Recommendations:
+  - Identify peak processing times and allocate resources efficiently to avoid shipping bottlenecks.
+  - 97.02% of orders are successfully delivered, 1.11% shipping rate, investigate the remaining 2.98% undelivered orders to understand any potential delays.
+  - Optimize shipping workflows to increase the shipping rate, ensuring faster fulfillment.
+
 ![Olist Dashboards_page-0006](https://github.com/user-attachments/assets/41102149-3132-47e1-aa8f-c3bf62e5a69a)
+
+Recommendations:
+  - Segment late deliveries by region, vendor, and logistics provider to pinpoint problem areas.
+  - Implement a proactive alert system for at-risk deliveries to take corrective action before orders become late.
 
 ![Olist Dashboards_page-0007](https://github.com/user-attachments/assets/58ad0a61-f779-4351-8155-eb94e8f9a3c3)
 
+Recommendations:
+  - Explore local warehouses or centers to store products closer to customers for faster delivery.
+  - Reduce shipping time by optimizing logistics partnerships 
+  - Analyze peak season bottlenecks (e.g., supplier delays, warehouse congestion, courier capacity).
+
 ![Olist Dashboards_page-0008](https://github.com/user-attachments/assets/03fe52b0-7f0f-4d8d-91e2-8c9acb847fb8)
+
+Recommendations:
+  - Expand into lower-revenue regions with targeted marketing and partnerships.
+  - Enhance logistics in high-order states to maintain customer satisfaction and delivery efficiency.
+  - Reduce freight costs in expensive states by optimizing warehouse locations and carrier agreements.
 
 ![Olist Dashboards_page-0009](https://github.com/user-attachments/assets/8e5677c6-2a20-440b-ba19-62158b8eb8e0)
 
+Recommendations:
+  - Optimize delivery logistics in states with high late delivery rates by partnering with faster carriers. 
+  - Offer discounts for bulk purchases in states with higher AOV to retain high-value customers.
+  - Implement automated order processing systems to reduce fulfillment durations in states with slow processing times.
 
-  - DrillThrough each State:
+DrillThrough each State:
 
 ![Olist Dashboards_page-0024](https://github.com/user-attachments/assets/130a38a2-922a-41c7-bc3f-c661d8c3badf)
 
