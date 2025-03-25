@@ -365,6 +365,11 @@ Recommendations:
 
 ![Products Performance](https://github.com/user-attachments/assets/865f4670-bca7-4e8a-9606-8a89d3f93835)
 
+Recommendations:
+  - Expand High-Performing Categories: Invest in marketing and stock availability for Beauty & Personal Care as it drives the most revenue.
+  - Reevaluate Low-Performing Brands: Brands like FitLife, PetLove, and ArtCraft need promotional support or should be replaced with higher-demand brands.
+
+
 #### 9.3. Customers Reports:
 
 ![Customer DemoGraphics](https://github.com/user-attachments/assets/51625205-c401-4909-bddf-6f904614ca67)
@@ -385,6 +390,9 @@ Recommendations:
 
 ![Seller Analysis](https://github.com/user-attachments/assets/7cc46d1f-ee55-4cd3-97d7-006e0c143b23)
 
+Recommendations:
+  - Improve Customer Satisfaction:  especially in the 50+ age group (5,748 negative reviews). Improve product quality and customer service for this segment.
+  - Leverage Customer Reviews: Since 50,494 customers gave a rating of 5, use these testimonials in marketing to build trust.
 _____________________________________________________________________________________
 ## (10/10) Data Source:
 
