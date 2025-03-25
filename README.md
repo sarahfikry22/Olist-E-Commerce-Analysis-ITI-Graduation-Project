@@ -300,6 +300,16 @@ Recommendations:
 #### 8.4. Payment Methods Reports:
 
 ![Olist Dashboards_page-0016](https://github.com/user-attachments/assets/7d5c75be-fad7-4986-a8c7-7d8d48314abe)
+Recommendations:
+
+ - **Promote Credit Card Payments for Higher Revenue:**  77K transactions come from credit cards, contributing $12.54M, the highest among payment types.
+Offer discounts or cashback for credit card users to encourage more usage.
+
+ - **Boost Weekend Sales with Promotions:**  Weekend payments are only 22.91% of total sales.
+Launch exclusive weekend flash sales or discounts to increase weekend revenue.
+
+ - **Expand Payment Options for Customer Convenience:** Boleto payments (20K transactions) contribute $2.87M, which is significant.
+Consider adding more alternative payment methods, such as e-wallets or Buy Now, Pay Later (BNPL) services, to attract a wider audience.
 
 ![Olist Dashboards_page-0017](https://github.com/user-attachments/assets/b6f63726-ede4-4ddf-9f97-fc915efc77d9)
 
