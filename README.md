@@ -192,8 +192,33 @@ ________________________________________________________________________________
   - <a href="https://app.powerbi.com/view?r=eyJrIjoiMWM3ZTFkNzQtYWY0OS00NTBiLThiODgtZWZkMjRiY2RkMDg4IiwidCI6ImFiZmYzMTIyLTQ0NWMtNDFjMy04NmNiLTZiZWQxOTI0YzEyZCJ9">**Link of Interactive Power BI Dashboards**</a>
 
 
+#### 8.0. Home Page:
+
+![Olist Dashboards_page-0001](https://github.com/user-attachments/assets/1c787d9d-1f0a-4104-805f-0cc30fad1740)
+
+![Olist Dashboards_page-0002](https://github.com/user-attachments/assets/ac7b70bd-cd0e-41ad-a07e-6bb92c559e3d)
+
+
 #### 8.1. Sales & Orders Reports:
 
+![Olist Dashboards_page-0003](https://github.com/user-attachments/assets/644eb034-38e0-40f6-b3ae-9fd48f7cfd60)
+
+![Olist Dashboards_page-0004](https://github.com/user-attachments/assets/4848c5ea-d9ed-4fd7-b195-07fd41ab06b1)
+
+![Olist Dashboards_page-0005](https://github.com/user-attachments/assets/6b4571cd-4427-4ab5-8eda-3c7c4f8a7cc0)
+
+![Olist Dashboards_page-0006](https://github.com/user-attachments/assets/41102149-3132-47e1-aa8f-c3bf62e5a69a)
+
+![Olist Dashboards_page-0007](https://github.com/user-attachments/assets/58ad0a61-f779-4351-8155-eb94e8f9a3c3)
+
+![Olist Dashboards_page-0008](https://github.com/user-attachments/assets/03fe52b0-7f0f-4d8d-91e2-8c9acb847fb8)
+
+![Olist Dashboards_page-0009](https://github.com/user-attachments/assets/8e5677c6-2a20-440b-ba19-62158b8eb8e0)
+
+
+  - DrillThrough each State:
+
+![Olist Dashboards_page-0024](https://github.com/user-attachments/assets/130a38a2-922a-41c7-bc3f-c661d8c3badf)
 
 
 #### 8.2. Products Reports:
@@ -214,7 +239,11 @@ ________________________________________________________________________________
 
 #### 8.6. Reviews Reports:
 
+![Olist Dashboards_page-0021](https://github.com/user-attachments/assets/59bba18b-1d76-411c-ab1e-0625f51acb29)
 
+![Olist Dashboards_page-0022](https://github.com/user-attachments/assets/e41f1799-15ec-454d-8986-d48114983abd)
+
+![Olist Dashboards_page-0023](https://github.com/user-attachments/assets/44b8c6d1-69bc-43f3-87e9-6181a417ceb2)
 
 
 _____________________________________________________________________________________
