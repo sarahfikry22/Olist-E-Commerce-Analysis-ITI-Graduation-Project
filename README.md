@@ -256,11 +256,33 @@ DrillThrough each State:
 #### 8.2. Products Reports:
 
 ![Olist Dashboards_page-0010](https://github.com/user-attachments/assets/5f1eb9df-353d-49cc-aceb-2a2e3af172f8)
+Recommendations:
+
+ - Increase the price slightly for high-demand products to improve revenue without impacting sales.
+
+ - Ensure that top-performing high-demand products are always in stock.
+
+ - Identify products with high freight costs and negotiate better deals with suppliers.
+
+ - Offer discounts for frequently paired products (e.g., Informatica Accessories Bundle, Automotive Kit).
 
 ![Olist Dashboards_page-0011](https://github.com/user-attachments/assets/5557adff-fdfe-44af-bc9a-e508693a7509)
+Recommendations:
+
+ - Optimize Inventory for High Order Categories.
+
+ - Highlight these categories in "limited-time offers" sections or push through email marketing.
+
+ - Enhance SEO & product descriptions for Toys, Telephony, and Watches & Gifts to increase visibility.
 
 ![Olist Dashboards_page-0012](https://github.com/user-attachments/assets/aeb25f6e-2fcd-4d1e-bdd4-738b5ece1af2)
+Recommendations:
 
+ - Since 82% of revenue comes from premium brands, focus on high-end advertising, personalized offers & VIP loyalty programs.
+
+ - Use brand collaborations & social media influencers to amplify reach.
+
+ - Increase visibility on search filters & recommendation engines.
 
 #### 8.3. Customers Reports:
 
