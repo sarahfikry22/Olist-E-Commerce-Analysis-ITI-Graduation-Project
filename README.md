@@ -333,11 +333,31 @@ Recommendations:
 #### 8.5. Sellers Reports:
 
 ![Olist Dashboards_page-0019](https://github.com/user-attachments/assets/8ad29728-34c5-4ca6-995c-56e76fcf3e01)
+Recommendations:
+
+ - **Discount Bundles:** Offer tech bundles for Bullock Ltd and Gonzales PLC Sellers passed on Product Category.
+
+ - **Expand in AM, RO, AC:** Run localized ads and reduce shipping costs to boost sales.
+ - 
+ - **Loyalty & Flash Sales:** Launch a rewards program and time-limited deals to drive repeat purchases.
 
 ![Olist Dashboards_page-0020](https://github.com/user-attachments/assets/2b901528-6c8a-444e-8252-0183ade66c3d)
+Recommendations:
+
+ - **Reduce Cancellation Rate:** Investigate and improve Stone-Jacobs and Mendoza Inc.'s order fulfillment.
+ - 
+ - **Enhance Delivery Speed:** Support slowest sellers with logistics optimization and better carrier partnerships.
+ - 
+ - **Maintain High On-Time Delivery:** Ensure top-performing sellers sustain efficiency with performance incentives.
 
 ![Olist Dashboards_page-0021](https://github.com/user-attachments/assets/b546f455-4dc0-4dd0-a3f7-83f8064c8a05)
+Recommendations:
 
+ - **Improve Seller Performance:** Focus on boosting Hess, Casey, and Grimes' performance (currently 46.58%).
+ - 
+ - **Reduce Late Shipping:** Address the 5.69% late shipping compliance rate to enhance customer satisfaction.
+ - 
+ - **Enhance Review Scores:** Increase positive feedback by improving service quality and delivery efficiency.
 
 #### 8.6. Reviews Reports:
 
