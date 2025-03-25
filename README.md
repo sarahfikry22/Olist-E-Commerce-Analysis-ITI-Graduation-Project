@@ -3,7 +3,7 @@
 This project provides an end-to-end Business Intelligence (BI) and Data Warehousing solution for Olist, a Brazilian e-commerce platform. The goal is to transform raw transactional data into meaningful insights using SQL Server, SSIS, SSAS, SSRS, Power BI, and Tableau. The project covers data extraction, transformation, loading (ETL), data modeling, dashboard development, and reporting.
 _____________________________________________________________________
 ## Contents 
-
+---------------------------------------> عاوز ابقي كونتربيوترررررررررررررررررررر
 <a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#110-business-case">**1) Business Case.**</a>
 
 <a href="https://github.com/AbdelrhmanSamir6633/Olist-E-Commerce-Analysis-ITI-Graduation-Project/blob/main/README.md#210-tools-and-technologies-used">**2) Tools and Technologies Used.**</a>
