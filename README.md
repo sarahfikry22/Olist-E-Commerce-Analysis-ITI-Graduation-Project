@@ -321,6 +321,13 @@ Recommendations:
  - **Promote Installment Plans for Higher Spending:** Installments usage is only 2.98%—a missed opportunity.Advertise easy, interest-free installment options for large purchases.
 
 ![Olist Dashboards_page-0018](https://github.com/user-attachments/assets/4a01577a-9cb5-4411-ae1d-98a3ea286cb4)
+Recommendations:
+
+ - **Strengthen Partnerships with Top Banks:**  Banco do Brasil (5.64M) and Itaú Unibanco (3.39M) handle most transactions.Offer exclusive discounts or faster payment processing for customers using these banks.
+
+ - **Target Smaller Banks for Growth:** Caixa Econômica, Banco do Nordeste, Banrisul, and Bradesco have lower payment volumes.Launch co-branded promotions with these banks to attract new users.
+
+ - **Drive More Weekend Payments:** Weekend transactions are low (22.91%).Promote weekend flash sales or bonus rewards for payments made on Saturdays & Sundays.
 
 
 #### 8.5. Sellers Reports:
