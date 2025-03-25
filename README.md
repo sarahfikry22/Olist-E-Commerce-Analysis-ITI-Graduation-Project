@@ -256,8 +256,15 @@ Recommendations:
  - **Increase Customer Lifetime Value (CLV):** Identify repeat buyers in high-performing cities and offer them VIP rewards.Encourage higher spending per order by bundling products or offering volume discounts.
 
 ![Olist Dashboards_page-0015](https://github.com/user-attachments/assets/f50f8d3b-e2a6-441b-b4bc-626513f899b4)
+Recommendations:
 
+ - **Convert One-Time Buyers into Frequent Buyers:**  Offer personalized product recommendations and special discounts for second purchases.Implement subscription-based offers for frequently bought products.
 
+ - **Increase Mobile Transactions:**  Improve mobile UI/UX and ensure a fast, easy checkout process.Introduce mobile-exclusive discounts to increase mobile transactions.
+
+ - **Increase Average Payment per Customer:** Offer limited-time discounts on premium products to encourage upselling.Provide membership tiers with benefits like free shipping for higher spending customers.
+
+ 
 #### 8.4. Payment Methods Reports:
 
 ![Olist Dashboards_page-0016](https://github.com/user-attachments/assets/7d5c75be-fad7-4986-a8c7-7d8d48314abe)
