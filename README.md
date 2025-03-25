@@ -234,6 +234,16 @@ ________________________________________________________________________________
 
 ![Olist Dashboards_page-0013](https://github.com/user-attachments/assets/2c7b4d6f-a519-4f6e-967a-2c790183179a)
 
+Recommendations:
+
+ - **Seasonal Promotions:**  with a drop in September and October. Plan marketing campaigns to boost sales .
+
+ - **Improve Guest Conversion:**  Guest login (3,946). Encourage account creation with perks like faster checkout or first-time discounts.
+
+ - **Analyze Customer Location:** Utilize customer city and state to create localized marketing strategies.
+
+ - **Automation:** Implementing incremental data loads and scheduling ETL jobs for ongoing updates.
+
 ![Olist Dashboards_page-0014](https://github.com/user-attachments/assets/b788fe85-aa8f-4bab-811a-9f7e51795b19)
 
 ![Olist Dashboards_page-0015](https://github.com/user-attachments/assets/f50f8d3b-e2a6-441b-b4bc-626513f899b4)
