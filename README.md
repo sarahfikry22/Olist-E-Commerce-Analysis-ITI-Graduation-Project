@@ -312,6 +312,13 @@ Launch exclusive weekend flash sales or discounts to increase weekend revenue.
 Consider adding more alternative payment methods, such as e-wallets or Buy Now, Pay Later (BNPL) services, to attract a wider audience.
 
 ![Olist Dashboards_page-0017](https://github.com/user-attachments/assets/b6f63726-ede4-4ddf-9f97-fc915efc77d9)
+Recommendations:
+
+ - **Target High-Payment Cities for Premium Offers:**  Cities like Pianco, Nova Esperança, and Engenheiro have the highest average payments.Offer exclusive VIP memberships or premium products in these locations.
+
+ - **Increase Sales in Low-Payment Months:** October, September, and December show lower payments.Implement seasonal campaigns, discounts, or bundle deals during these months.
+
+ - **Promote Installment Plans for Higher Spending:** Installments usage is only 2.98%—a missed opportunity.Advertise easy, interest-free installment options for large purchases.
 
 ![Olist Dashboards_page-0018](https://github.com/user-attachments/assets/4a01577a-9cb5-4411-ae1d-98a3ea286cb4)
 
