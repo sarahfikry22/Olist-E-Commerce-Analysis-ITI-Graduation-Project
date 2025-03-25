@@ -342,6 +342,16 @@ Recommendations:
 #### 8.6. Reviews Reports:
 
 ![Olist Dashboards_page-0022](https://github.com/user-attachments/assets/e41f1799-15ec-454d-8986-d48114983abd)
+Recommendations:
+
+ - **Improve Customer Experience for High-Negative Review Products:** Focus on Professional Bed Table Bath & Deluxe Furniture, as they have the highest negative reviews.Investigate common complaints and improve product quality or service.
+
+ - **Enhance Low-Priced Product Quality:**  13K negative reviews are from products priced under $100.Ensure better quality control and set realistic expectations in product descriptions.
+
+ - **Leverage Mendoza Inc’s Positive Reputation:** Mendoza Inc. is the top-rated seller—use this as a marketing advantage.Highlight their products in ads, homepage features, or exclusive deals.
+ 
+ - **Convert Negative Reviews into Opportunities:** 20K negative reviews (20.63%)—actively respond and resolve issues.Offer refunds, replacements, or support to rebuild customer trust.
+
 
 ![Olist Dashboards_page-0023](https://github.com/user-attachments/assets/44b8c6d1-69bc-43f3-87e9-6181a417ceb2)
 Recommendations:
