@@ -239,8 +239,6 @@ ________________________________________________________________________________
 
 #### 8.6. Reviews Reports:
 
-![Olist Dashboards_page-0021](https://github.com/user-attachments/assets/59bba18b-1d76-411c-ab1e-0625f51acb29)
-
 ![Olist Dashboards_page-0022](https://github.com/user-attachments/assets/e41f1799-15ec-454d-8986-d48114983abd)
 
 ![Olist Dashboards_page-0023](https://github.com/user-attachments/assets/44b8c6d1-69bc-43f3-87e9-6181a417ceb2)
