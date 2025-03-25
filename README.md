@@ -245,6 +245,15 @@ Recommendations:
  - **Automation:** Implementing incremental data loads and scheduling ETL jobs for ongoing updates.
 
 ![Olist Dashboards_page-0014](https://github.com/user-attachments/assets/b788fe85-aa8f-4bab-811a-9f7e51795b19)
+Recommendations:
+
+ - **Activate Inactive Customers:**  Offer exclusive promotions for inactive users to encourage purchases.
+
+ - **Increase Sales in Low-Performing States:**  invest in localized marketing. Provide region-specific offers to encourage more sales.
+
+ - **Focus on High-Potential Cities:** Optimize logistics and delivery times in these regions for better customer satisfaction.Introduce loyalty programs in these cities to encourage repeat purchases.
+
+ - **Increase Customer Lifetime Value (CLV):** Identify repeat buyers in high-performing cities and offer them VIP rewards.Encourage higher spending per order by bundling products or offering volume discounts.
 
 ![Olist Dashboards_page-0015](https://github.com/user-attachments/assets/f50f8d3b-e2a6-441b-b4bc-626513f899b4)
 
