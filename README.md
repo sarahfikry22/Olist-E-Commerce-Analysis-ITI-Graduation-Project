@@ -246,6 +246,38 @@ ________________________________________________________________________________
 ![Olist Dashboards_page-0023](https://github.com/user-attachments/assets/44b8c6d1-69bc-43f3-87e9-6181a417ceb2)
 
 
+#### 8.7.Tooltips:
+
+![Olist Dashboards_page-0025](https://github.com/user-attachments/assets/42a3d555-245d-4eb5-b36c-7923648735b6)
+
+![Olist Dashboards_page-0026](https://github.com/user-attachments/assets/5a483954-d7d4-4078-89b3-1ee2e9250dfe)
+
+![Olist Dashboards_page-0027](https://github.com/user-attachments/assets/257db03e-efae-449a-958c-00bde89d453b)
+
+![Olist Dashboards_page-0028](https://github.com/user-attachments/assets/659744f8-ca37-4327-b220-7d2db177b9d9)
+
+![Olist Dashboards_page-0029](https://github.com/user-attachments/assets/241e1bd1-68c2-413c-a293-106f8f847620)
+
+![Olist Dashboards_page-0030](https://github.com/user-attachments/assets/744ad3ef-1040-4f1e-9eb0-f1ce3cee62cf)
+
+![Olist Dashboards_page-0031](https://github.com/user-attachments/assets/11ccaebf-8d72-44f4-8169-c65b3a01b326)
+
+![Olist Dashboards_page-0032](https://github.com/user-attachments/assets/decafed8-a2e9-48c0-be39-ca630f4c6d14)
+
+![Olist Dashboards_page-0033](https://github.com/user-attachments/assets/a823b68b-1ab2-4209-8b32-447b782a8ecc)
+
+![Olist Dashboards_page-0034](https://github.com/user-attachments/assets/dbcf8b97-6b29-4f4d-b3b2-bc9a22a91df9)
+
+![Olist Dashboards_page-0035](https://github.com/user-attachments/assets/fd2f5d34-2968-408a-8ec9-4fc9e29df9d5)
+
+![Olist Dashboards_page-0036](https://github.com/user-attachments/assets/32ba0eb8-b8ea-4407-9d00-e380aec4de1a)
+
+![Olist Dashboards_page-0037](https://github.com/user-attachments/assets/0b977082-c63e-4dfd-bf23-6fd4083d7a28)
+
+
+
+
+
 _____________________________________________________________________________________
 ## (9/10) Tableau Dashboards:
 
