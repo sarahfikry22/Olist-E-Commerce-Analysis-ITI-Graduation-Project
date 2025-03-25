@@ -348,7 +348,18 @@ ________________________________________________________________________________
 
 ![Sales Performance (1)](https://github.com/user-attachments/assets/cfe84165-ada3-458a-869e-5980dbe4fd2c)
 
+Recommendations:
+  - Run seasonal discounts to address the sharp drop in September.
+  - Optimize the mobile purchasing experience by improving app UI, streamlining checkout, and offering exclusive mobile promotions.
+
+
 ![Sales Geographics](https://github.com/user-attachments/assets/5cda3f03-46f3-4ac1-b9a0-14ddda6f2fad)
+
+Recommendations:
+  - Negotiate better shipping rates in High-Cost States RR, PB, RO to reduce logistics expenses.
+  - Expand Market Share in Low-Performing States (AP, AL, GO).
+  - Improving seller efficiency in MG, RJ, and RS could further boost sales.
+
 
 #### 9.2. Products Reports:
 
@@ -358,7 +369,17 @@ ________________________________________________________________________________
 
 ![Customer DemoGraphics](https://github.com/user-attachments/assets/51625205-c401-4909-bddf-6f904614ca67)
 
+Recommendations:
+  - Seasonal Promotions: with a drop in September and October. Plan marketing campaigns to boost sales .
+  - Improve Guest Conversion Guest login (3,946). Encourage account creation with perks like faster checkout or first-time discounts.
+  - Analyze Customer Location: Utilize customer city and state to create localized marketing strategies.
+
 ![Customer Transaction](https://github.com/user-attachments/assets/99821b6f-683b-4413-8cd4-d291928adba5)
+
+Recommendations:
+  - Improve Customer Satisfaction:  especially in the 50+ age group (5,748 negative reviews). Improve product quality and customer service for this segment.
+  - Leverage Customer Reviews: Since 50,494 customers gave a rating of 5, use these testimonials in marketing to build trust.
+  - Optimize Marketing by Location: The state of SP has the highest number of customers. Focus marketing efforts and promotions in high-performing states.
 
 #### 9.4. Sellers Reports:
 
