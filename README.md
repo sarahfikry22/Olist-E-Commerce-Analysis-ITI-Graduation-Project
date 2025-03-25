@@ -288,7 +288,13 @@ Recommendations:
 ![Olist Dashboards_page-0022](https://github.com/user-attachments/assets/e41f1799-15ec-454d-8986-d48114983abd)
 
 ![Olist Dashboards_page-0023](https://github.com/user-attachments/assets/44b8c6d1-69bc-43f3-87e9-6181a417ceb2)
+Recommendations:
 
+ - **Improve Customer Experience to Increase Positive Reviews:** Address issues leading to 11.6% 1-star reviews—analyze common complaints and fix product/service problems.
+
+ - **Focus on 50+ and 36-50 Age Groups for Engagement:**  These groups provide the most reviews (27K each), meaning they are active customers—use targeted offers and personalized campaigns to retain them.
+
+ - **Leverage Positive Reviews for Marketing:** Highlight high-rated products in advertisements and social media. Encourage customers to leave reviews by offering incentives like small discounts on their next purchase.
 
 #### 8.7.Tooltips:
 
